@@ -1,0 +1,1 @@
+export const API_URL = 'https://stark-sea-75750.herokuapp.com/api/v1'; 
